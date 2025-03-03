@@ -1,6 +1,6 @@
 import { Button, Typography } from '@mui/material';
 import React from 'react';
-import Header from './components/header';
+import Header from './components/Header';
 import './App.css';
 import CourseCard from './components/coursecard';
 
